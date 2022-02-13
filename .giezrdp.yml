@@ -1,3 +1,5 @@
+name : AmazonRDP
+
 on: workflow_dispatch
 
 
